@@ -1,0 +1,4 @@
+Redux
+https://flaviocopes.com/react-hook-usereducer/?fbclid=IwAR13sqi4KPqoJlQioJXPZNJs-x0nsppjzulG3NAYeirDftaCv-pJ-OAGdOQ
+1. Authority to change global storage.
+2. Reducer only to change the state.

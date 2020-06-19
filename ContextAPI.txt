@@ -1,0 +1,4 @@
+Context API
+1. Provide central location to manage data.
+2. Directly send data to the requesty.
+3. Global storage.
